@@ -1,0 +1,8 @@
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.deps.json
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.AssemblyInfoInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.AssemblyInfo.cs
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.csproj.CoreCompileInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Entities\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.pdb

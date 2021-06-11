@@ -1,0 +1,14 @@
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.deps.json
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.Contract.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\bin\Debug\netcoreapp3.1\Rev1.API.Security.Business.Entities.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.csprojAssemblyReference.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.AssemblyInfoInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.AssemblyInfo.cs
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.csproj.CoreCompileInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.csproj.CopyComplete
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business\obj\Debug\netcoreapp3.1\Rev1.API.Security.Business.pdb

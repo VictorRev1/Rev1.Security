@@ -1,0 +1,15 @@
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\bin\Debug\net5.0\Rev1.API.Security.Utils.deps.json
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\bin\Debug\net5.0\Rev1.API.Security.Utils.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\bin\Debug\net5.0\ref\Rev1.API.Security.Utils.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\bin\Debug\net5.0\Rev1.API.Security.Utils.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\bin\Debug\net5.0\Rev1.API.Security.Business.Entities.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\bin\Debug\net5.0\Rev1.API.Security.Business.Entities.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.csprojAssemblyReference.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.AssemblyInfoInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.AssemblyInfo.cs
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.csproj.CoreCompileInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.csproj.CopyComplete
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\ref\Rev1.API.Security.Utils.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Utils\obj\Debug\net5.0\Rev1.API.Security.Utils.pdb

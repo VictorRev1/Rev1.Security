@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Account.cs" />
+    <Compile Remove="AccountResponse.cs" />
+    <Compile Remove="Role.cs" />
+  </ItemGroup>
+
+</Project>

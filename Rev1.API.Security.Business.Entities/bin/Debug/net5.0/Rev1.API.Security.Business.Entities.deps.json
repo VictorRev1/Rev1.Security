@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rev1.API.Security.Business.Entities/1.0.0": {
+        "runtime": {
+          "Rev1.API.Security.Business.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rev1.API.Security.Business.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

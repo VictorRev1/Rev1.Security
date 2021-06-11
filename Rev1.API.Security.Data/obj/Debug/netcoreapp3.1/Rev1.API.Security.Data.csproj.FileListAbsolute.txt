@@ -1,0 +1,4 @@
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data\bin\Debug\netcoreapp3.1\Rev1.API.Security.Data.Entities.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data\obj\Debug\netcoreapp3.1\Rev1.API.Security.Data.csprojAssemblyReference.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data\obj\Debug\netcoreapp3.1\Rev1.API.Security.Data.AssemblyInfoInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data\obj\Debug\netcoreapp3.1\Rev1.API.Security.Data.AssemblyInfo.cs

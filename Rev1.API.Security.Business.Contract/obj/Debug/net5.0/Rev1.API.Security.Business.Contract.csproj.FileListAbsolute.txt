@@ -1,0 +1,15 @@
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\bin\Debug\net5.0\Rev1.API.Security.Business.Contract.deps.json
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\bin\Debug\net5.0\Rev1.API.Security.Business.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\bin\Debug\net5.0\ref\Rev1.API.Security.Business.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\bin\Debug\net5.0\Rev1.API.Security.Business.Contract.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\bin\Debug\net5.0\Rev1.API.Security.Business.Entities.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\bin\Debug\net5.0\Rev1.API.Security.Business.Entities.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.csprojAssemblyReference.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.AssemblyInfoInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.AssemblyInfo.cs
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.csproj.CoreCompileInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.csproj.CopyComplete
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\ref\Rev1.API.Security.Business.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Business.Contract\obj\Debug\net5.0\Rev1.API.Security.Business.Contract.pdb

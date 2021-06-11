@@ -1,0 +1,15 @@
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\bin\Debug\net5.0\Rev1.API.Security.Data.Contract.deps.json
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\bin\Debug\net5.0\Rev1.API.Security.Data.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\bin\Debug\net5.0\ref\Rev1.API.Security.Data.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\bin\Debug\net5.0\Rev1.API.Security.Data.Contract.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\bin\Debug\net5.0\Rev1.API.Security.Data.Entities.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\bin\Debug\net5.0\Rev1.API.Security.Data.Entities.pdb
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.csprojAssemblyReference.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.AssemblyInfoInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.AssemblyInfo.cs
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.csproj.CoreCompileInputs.cache
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.csproj.CopyComplete
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\ref\Rev1.API.Security.Data.Contract.dll
+C:\VSProjects\Rev1.API.Security\Rev1.API.Security.Data.Contract\obj\Debug\net5.0\Rev1.API.Security.Data.Contract.pdb

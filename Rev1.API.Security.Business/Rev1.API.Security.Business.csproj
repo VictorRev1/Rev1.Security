@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AccountService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="BCrypt.Net-Core" Version="1.6.0" />
+    <PackageReference Include="MailKit" Version="2.11.1" />
+    <PackageReference Include="MimeKit" Version="2.11.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rev1.API.Security.Business.Contract\Rev1.API.Security.Business.Contract.csproj" />
+    <ProjectReference Include="..\Rev1.API.Security.Data.Contract\Rev1.API.Security.Data.Contract.csproj" />
+    <ProjectReference Include="..\Rev1.API.Security.Data.Entities\Rev1.API.Security.Data.Entities.csproj" />
+    <ProjectReference Include="..\Rev1.API.Security.Utils\Rev1.API.Security.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
